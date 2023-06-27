@@ -3,7 +3,7 @@
 
 Hello , Here I will be sharing and solving daily DSA related problems .
 
-Platform where I am Practcing : 
+Platform where I am will be Practicing : 
 
 GeeksForGeeks: https://practice.geeksforgeeks.org/home
 
