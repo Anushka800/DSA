@@ -9,7 +9,7 @@ GeeksForGeeks: https://practice.geeksforgeeks.org/home
 
 Leetcode: https://leetcode.com/
 
-Coding NInjas: 
+Coding NInjas: https://www.codingninjas.com/studio/problems
 
 Striver A2Z/DSA Sheet: https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/
 
